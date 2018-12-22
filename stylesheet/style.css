@@ -8,6 +8,7 @@ body {
     font-family: 'Roboto', sans-serif;
 	letter-spacing: .5px;
 	position: relative;
+	background-size: 100%;
 }
 
 .container {
